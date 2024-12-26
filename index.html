@@ -1,0 +1,47 @@
+<title>bllb translator</title>
+    <textarea id="inputText" rows="6" cols="40"></textarea><br><br>
+    
+    <button onclick="translatetext()">translate</button>
+
+    <h2>translation:</h2>
+    <textarea id="outputText" rows="6" cols="40" readonly></textarea>
+
+    <script>
+        let alphabet = {
+            'pbwb': 'A',
+            'jxppi': 'B',
+            'tjoy': 'C',
+            '??????': 'D',
+            'olm': 'E',
+            'fbi': 'F',
+            '??????': 'G',
+            'diixn': 'H',
+            'iglri': 'I',
+            '??????': 'J',
+            '??????': 'K',
+            'ztnr': 'L',
+            'afb': 'M',
+            'jvu': 'N',
+            'ba': 'O',
+            'lhtm': 'P',
+            '??????': 'Q',
+            'qip': 'R',
+            'shrbx': 'S',
+            'xgww': 'T',
+            'lk': 'U',
+            'nilra': 'V',
+            'izk': 'W',
+            '??????': 'X',
+            'flsjg': 'Y',
+            '??????': 'Z'
+        };
+
+        function translatetext() {
+            let inputText = document.getElementById('inputText').value;
+            for (let key in alphabet) {
+                let regex = new RegExp(key, 'g');
+                inputText = inputText.replace(regex, alphabet[key]);
+            }
+            document.getElementById('outputText').value = inputText;
+        }
+    </script>

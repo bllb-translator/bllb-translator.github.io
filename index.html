@@ -30,7 +30,7 @@
         };
 
         function translatetext() {
-            let inputText = document.getElementById('inputText').value;
+            let inputText = document.getElementById('inputText').value.toLowerCase();
             for (let key in alphabet) {
                 let regex = new RegExp(key, 'g');
                 inputText = inputText.replace(regex, alphabet[key]);

@@ -1,0 +1,323 @@
+substituting common patterns in recent messages:
+
+letters in [ ] chosen at random
+
+[R]n[E][W]r[W]r[M][T][R]n[Z][E]afbj[I][M]
+[G][P]k[H][D]vu[T][A][F][W]r[E][Q][H][E]afb[E]fbi[M][Z][E][K][E][Z]
+[F][R]np[Y][T][E][E][K][E][Z][G][T]d[R]n[F][Q]dqyw[D][I][P]k[T][G][P]kr
+[J][R]n[E][Z][E][F][A]l[X][M][M][M][Q][E]
+[F][J][M][Q][T][A][T][P][X]lk[Q][T][F][W]r[F][R]np[Y][K][E][D]vu[A][J][E][Z][A]
+
+or
+
+[R]n[E][W]r[W]r[M][T][R]n[Z][E]afbj[I][M]
+[G][P]k[H][D]vu[T][A][F][W]r[E][Q][H][E]afb[E]fbi[M][Z][E][K][E][Z]
+[C][R]np[Y][T][E][E][K][E][Z][G][T][R]n[F][Q]dqyw[D][I][P]k[T][G][P]kr
+[J][R]n[E][Z][E][F][A]l[X][M][M][M][Q][E]
+[F][J][M][Q][T][A][T][P][X]lk[Q][T][F][W]r[C][R]np[Y][K][E][D]vu[A][J][E][Z][A]
+
+could be
+
+HEOOMTHREIM
+GPUDTAFOEQUEEMREKER
+CHYTEEKERGTHFQDIPTGP
+WHEREFAXMMMQE
+FWMQTATPXQTFOCHYKEDAWERA
+
+becomes:
+
+HELLOTHREMO
+DIBUTSILENBEEOREVER
+CHYTEEVERDTHINUMITDI
+WHEREISPOOONE
+IWONTSTIPNTILCHYVEUSWERS
+
+HELLO THREMBO
+?????? OR EVER
+??????????
+WHERE IS POO ONE
+I WONT STOP UNTIL ???? HE ANSWERS
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!
+55 character strings:
+Mjrcppwcepmykdczwdpecupdfvxgyvdtafnvtayxxruciueinyqxxeg
+Dredfnzxtuzkwzaijggaiiczfnntpvivabfhnqbhdbpmxuuexydxhrb
+Etcdmagkgunxakghrpgumryhmbpppbfjnwuzkpmmzzxjtaibnyjxuhr
+Nmbjyxanazmffupayvucwtargmuezvqbjgawvpwujkkirywadaduint
+Fticpziergatcbpvuxydhwuteypukfzhcrteyuqrbquqidfwjtzvutt
+Gcjcmfkcjpjrxytynqckwmahmmvkzzevhhrvdvywrghkjzpizyebvmg
+Rjjznxujqrkuyukrhktgwrgbnxmzxvnyvnfvugefbeefzwkfibttkyz
+Kekwtxffezadrchnitxyhdcmddehfqehwavenmarktejghngyagxzjy
+Kjyjuewkykrfwdvznktewnqndcnyjmveebexgxrbryqyfccxftrmhib
+Cmccjetukkyxkrbejgybqnkdtcmdymvnhhvipifawtndpabwpykjbyp
+Ymjyqqcifyfcehgyrbcmekzxjdwxapxwfhcdgurdcitpvnnyakyunuc
+Dudkcninkafkcuadaidhkuayphfghmnnqtywvypaqawjjaxzfhkuffi
+Xjwzmkikgaeztmtbbxxfrqquxycfdrzvfckepyiizxrebwpnurqfjik
+Fnfhjaafqyqtdiqypcphmcrapqphhtxqcgricjeehkcmvczrbbikduk
+Vayucvimmugipfuhnfuwpnxmznqypawvbcnvkjyuqdgvrrbzjwtgjab
+Eprqawrarajfzdzzcfpquypxjpzrvuipfaafjutgevbudjkdfikytcw
+Ufufbckbemqnwyekhxcrktmzvihktdyrjcyqjvcxgvzazyfejchmvhd
+
+!!!!!!!!!!!!!!!!!!!!!!!!
+71 character strings:
+Fnpdvrknqgtahevfdghretzpqpdbaipqjgeckajuryucqbnmmynxttfbrzcbxuijccjajkt
+Hhmkmyyxyhrpizzndxegpcwnnrccnqrbdvernrtfgmudnnwwjffmbryzahbtfhykvyticfk
+Pyyfbadieqhpwcfdbynzwhaurzqknxeegepdntymjunvrmjikzqpdwfmzkpwhrbznerxbmd
+Rejakehzcuzyjdvktynkqtzyixwtuitwcqivamppmkfcumgauhiehjtdjzpdgbmgnnuqjpa
+Wrdzzxyztyivtueixuydafgdrhwbqdfimzzhzfeffibiiutinqnkjieknnqjcvxbpkrktre
+Umnmicmcdgjrixmvpjemamzezwjdzkxnhicrdgvpuxgnqeemkkrgzkgtxgfgudxukpkkvmx
+Qfrbtfqjabikvqvdnegbudqvibdpydruntzwquaxhfwarrukiqryiiixxhacxrybggbagzg
+
+!!!!!!!!!!!!!!!!!!!!!!!!
+likely strings: (5+ characters, or 4+ single appearances)
+
+"nilraolm": 3
+"pbwbj": 3
+"jvuxgww": 3
+"diixn": 5
+"shrbx": 5
+"iglri": 5
+"olm": 15 ------------------- most common. could be "the", most common word in english. "e" if a letter
+"xgww": 8
+"hrb": 7
+"iix": 7
+"jvu": 7
+"glri": 7
+"ztn": 6
+"bwb": 6
+"qip": 6
+"iixn": 6
+"uxg": 5
+"mqi": 5
+"pbw": 5
+"shr": 5
+"rbx": 5
+"igl": 5
+"pbwb": 5
+"iglr": 5
+"jaa": 4
+"exp": 4
+"zyj": 4
+"mzn": 4
+"lll": 4
+"rkt": 4
+"vux": 4
+"bal": 4
+"lmq": 4
+"ztnr": 4
+
+leftovers: (not found, but very very likely)
+"nilra"
+"izk"
+"flsjg"
+"xppi"
+"ba" (way too common...)
+"htm"
+
+likely "olm" and "qip" next to each other, so it could be a common combination (such as "qu")
+"olmqip": 4
+"qipolm": 3
+
+!!!!!!!!!!!!!!!!!!!!!!!!
+combinations:
+
+"iix": 7
+"iixn": 6
+"diixn": 5
+
+"xgww": 8
+"jvu": 7
+"uxg": 5
+"vux": 4
+"jvuxgww": 3
+
+"hrb": 7
+"shrbx": 5
+
+"glri": 7
+"iglri": 5
+
+"ztn": 6
+"ztnr": 4
+
+"bwb": 6
+"pbwb": 5
+"pbwbj": 3
+
+"qip": 6
+"mqi": 5
+"olmqip": 4
+"qipolm": 3
+
+!!!!!!!!!!!!!!!!!!!!!!!!
+raw (4+ hits):
+
+"olm": 15
+"xgww": 8
+"hrb": 7
+"iix": 7
+"jvu": 7
+"glri": 7
+"ztn": 6
+"bwb": 6
+"qip": 6
+"iixn": 6
+"uxg": 5
+"mqi": 5
+"pbw": 5
+"shr": 5
+"rbx": 5
+"igl": 5
+"pbwb": 5
+"iglr": 5
+"diixn": 5
+"shrbx": 5
+"iglri": 5
+"jaa": 4
+"exp": 4
+"zyj": 4
+"mzn": 4
+"lll": 4
+"rkt": 4
+"vux": 4
+"bal": 4
+"lmq": 4
+"ztnr": 4
+"olmqip": 4
+
+!!!!!!!!!!!!!!!!!!!!!!!!
+raw (3 hits):
+
+"rmm": 3
+"qgj": 3
+"mbj": 3
+"hrp": 3
+"fef": 3
+"nvm": 3
+"mir": 3
+"gyf": 3
+"xwt": 3
+"ucw": 3
+"fzy": 3
+"yja": 3
+"azz": 3
+"tui": 3
+"pqh": 3
+"efw": 3
+"qyw": 3
+"kgh": 3
+"zwk": 3
+"dzk": 3
+"ykv": 3
+"zkp": 3
+"kpw": 3
+"bab": 3
+"bbk": 3
+"kyt": 3
+"yty": 3
+"zzx": 3
+"xuj": 3
+"rjc": 3
+"mam": 3
+"akb": 3
+"bjv": 3
+"pnf": 3
+"hvi": 3
+"gba": 3
+"yek": 3
+"ada": 3
+"qty": 3
+"tyw": 3
+"aba": 3
+"mah": 3
+"ajv": 3
+"jgb": 3
+"iba": 3
+"ipf": 3
+"llll": 3
+"lsjg": 3
+"balk": 3
+"pbwbj": 3
+"qipolm": 3
+"jvuxgww": 3
+"nilraol": 3
+"ilraolm": 3
+"nilraolm": 3
+
+!!!!!!!!!!!!!!!!!!!!!!!!
+
+message archive:
+# is a reply
+
+trying to decode with the above only works for messages past the ()() mark, excluding replies. they likely use different encoding methods
+
+Rzzvymgvxqbmuzrzbxhnjjaukxcuhfqeutzftkizgifjtpxdmtjdurmmrviinqkyeaqnxqgjtuvn
+Wfxzcmtnfwqtwnwzidyeantzmjdwdubcyvkykbimbjkydehrphwtmdtjxrntdeyerwqtxtzeymyn
+Fnpdvrknqgtahevfdghretzpqpdbaipqjgeckajuryucqbnmmynxttfbrzcbxuijccjajkt
+Brxjzcvacajeupgccidmkvzmbqafefiqdenhqcugjyirthjrrydeugnvmdegcdvv
+Gmirkhcbkipaxnvedyrfeaytthbpvvmxdjegtgemygyfxynnbfxfzahixwtucwfevrybfaadvkwfzyxcrvwefp
+Vacfqmjrcvdefnuuajaxeddfbnvztrhxbyjaazzuazzfqqqjguzrxxncjhhkmztuihprn
+Kjdcrtxvziuicrjamubyfaubaqchuyvtawqgfhjhjcevzbjuubdyyarkitwjpaymrngzcdubkbxvfzvypqhzefwcnydrthwduexpqywcjz
+Gdinfwigydgdnwikavgfuvyhyqywvianwtmirahdcxyujkghvkibdhgfzkmxxvbwxpwnhzzpgbvzmzbebnmwzedwnkbquwruzwkuqtezazqpzvvubuyxuxbag
+Guhnapqgjcmhqijrznfrrrwkwvagzddvamxvmhihzxvtvmcgawxwtfdxwcfqyrmmerfgdgyfjbcy
+Paakfjxbirgwrqzmdzkuentgkexpgvbyrixgvntjfnvbwcitgpbgaiegczryzyjnfrkhxpipujui
+Ertzxfvuwvnqaedvgrxgifketdvipupvetrucbuemdagtkpztnvftxzwkczvxxqakrhiagyrgzv
+Hhmkmyyxyhrpizzndxegpcwnnrccnqrbdvernrtfgmudnnwwjffmbryzahbtfhykvyticfk
+Pyyfbadieqhpwcfdbynzwhaurzqknxeegepdntymjunvrmjikzqpdwfmzkpwhrbznerxbmd
+Pkmyqfkztnmjvrypmprtatqiwqemrkfhpfaneghkhtbzkzgtfgvjertqgmbhvudzmuupmrfwtygxqkzfajpgeztbabbkrcanpqdedmeehvcc
+Rejakehzcuzyjdvktynkqtzyixwtuitwcqivamppmkfcumgauhiehjtdjzpdgbmgnnuqjpa
+Gwttmrbjcaxgykxq
+Nhrjaakytyznhmwvexpgbnvmznxfyczdykvndzkpwygubhbfikyutgfwyjiwujrhkmfjmnexwpzxcixhrmmyhteutyahaehqgpcifxkaj
+Zamyajyefwymvtifubigkgrfjccuhzjxvxxfamfzydmmnvkaehvehatpjnhcahjazzxqqvtptvejpubnwykvbtcgefwpjcixujytnbrjc
+Egcigrtcgftqvzux
+Lllllllvdyumamvexiqxnxrwhgd
+Krcfzakbjvbauigdrundgxctqmgcaudjujwrjcnvjgwqxypbrrjpjwanezuac
+Thfdbevcdivvdpwdtgtfwehnhdzppnf
+Anbdiwcxjzwthdnzyjaawrrmjfqgpxujrfunbfxekuvjeuuymhhurgvrwkitx
+# Lwwrkftznpfhawdcrkwqyhjcxhvixefyvzbnbjyqjnkqfxpuedzmkcqnpujcvb
+# Ivyjfcjykdfzycnjjqvbxftfpzthfznhygqdhaxjvqibgxezdpnffybqmbjqnp
+Xjepjdqpnjkpwkqdrtmtzeqfknefupbqanccnecntkqtthrtqhknqckgajwexpvqpucwvqxqexkvm
+Gzfxgmrihthyfwjbkymjwdaixahrfeccbhkcuehwfavz
+Wrdzzxyztyivtueixuydafgdrhwbqdfimzzhzfeffibiiutinqnkjieknnqjcvxbpkrktre
+# Mjrcppwcepmykdczwdpecupdfvxgyvdtafnvtayxxruciueinyqxxeg
+# Dredfnzxtuzkwzaijggaiiczfnntpvivabfhnqbhdbpmxuuexydxhrb
+Umnmicmcdgjrixmvpjemamzezwjdzkxnhicrdgvpuxgnqeemkkrgzkgtxgfgudxukpkkvmx
+Qfrbtfqjabikvqvdnegbudqvibdpydruntzwquaxhfwarrukiqryiiixxhacxrybggbagzg
+# Etcdmagkgunxakghrpgumryhmbpppbfjnwuzkpmmzzxjtaibnyjxuhr
+Qqvjmznyekifxqquviqpxiraicddvqkyxkjbuyhpcnpwbahhbenjfefc
+# Nmbjyxanazmffupayvucwtargmuezvqbjgawvpwujkkirywadaduint
+Uirhxkgvbriiypedevfmchixepfrpvdxctfkedrigkrktucdepekapbizqtywpvxhk
+# Fticpziergatcbpvuxydhwuteypukfzhcrteyuqrbquqidfwjtzvutt
+Wmqeaexzrzmdafuceyvcjicxqhmznnzvmkxzikbhnexczuimfyfxgrdwtyekywrhei
+Threagidhqbdaqpvcmyptmuurpcgecdpwfeywguvxiyutyydjjkhfyxuukebqhqpivhwdk
+Fmxteizwtvcnabfrtnnuyhmamiggmvrgfwaznvxiekcxeedwwkihqnakbxmuianpfj
+Ahgbwbxhkbaevwvgccqgvddxmmaxagwnmrbpxqbbkpmqinuicdyjarcapikgnrvqzabawivrbgwncpdmxzxabrci
+Tjxhguujtkdpnfvqcpmhvi
+# Gcjcmfkcjpjrxytynqckwmahmmvkzzevhhrvdvywrghkjzpizyebvmg
+# Rjjznxujqrkuyukrhktgwrgbnxmzxvnyvnfvugefbeefzwkfibttkyz
+Gkytyw
+Bjatzbwajvgxyrtertmqnvmeedyibbkiagcygvadjekh
+# Bcacvrxumahctdwmahctdwunnrwqxwhkvfpjjkrzn
+Wdwurquwjicarfguyptekafrttkgixadjhbadtuifhttaipaadaepd
+Wnhgkrpmcthyvpnazykbrdfgvtrcguqgjrawmxumrmfbnkghbywjjzjxhxqfdgyfna
+Arxenqxirtpivjakvcboby
+# Kekwtxffezadrchnitxyhdcmddehfqehwavenmarktejghngyagxzjy
+# Njyrmvhpfjgdhhgdbdtbgnmckzpzvmvkkjjgbjmnmwrpxkpravkyjbbob
+# Qahbiyepmycfhhqeuwhgqemvznihpqhamirkuuwqiafvjvzapecall
+Giunavhziugnakbtvvdnpkhvhccpqjtqyzyjqtyuxgpqhmygcqpjkhzreqjburg
+# Kjyjuewkykrfwdvznktewnqndcnyjmveebexgxrbryqyfccxftrmhib
+# Cmccjetukkyxkrbejgybqnkdtcmdymvnhhvipifawtndpabwpykjbyp
+# Ymjyqqcifyfcehgyrbcmekzxjdwxapxwfhcdgurdcitpvnnyakyunuc
+# Dudkcninkafkcuadaidhkuayphfghmnnqtywvypaqawjjaxzfhkuffi
+# Xjwzmkikgaeztmtbbxxfrqquxycfdrzvfckepyiizxrebwpnurqfjik
+# Fnfhjaafqyqtdiqypcphmcrapqphhtxqcgricjeehkcmvczrbbikduk
+()()
+Diixnolmztnrztnrbaxgwwdiixnqipolmafbjxppiba
+Flsjgbalktjoypbwbjvuxgwwshrbxiglriztnrolmjvutjoyolmafbolmfbibaqipolmnilraolmqip
+# Vayucvimmugipfuhnfuwpnxmznqypawvbcnvkjyuqdgvrrbzjwtgjab
+Iglridiixnpbwbxgwwolmolmnilraolmqipflsjgxgwwdiixniglrijvudqywpbwbjxppibalkxgwwflsjgbalkr
+Izkdiixnolmqipolmiglrishrbxlhtmbababajvuolm
+# Eprqawrarajfzdzzcfpquypxjpzrvuipfaafjutgevbudjkdfikytcw
+# Ufufbckbemqnwyekhxcrktmzvihktdyrjcyqjvcxgvzazyfejchmvhd
+Iglriizkbajvuxgwwshrbxxgwwbalhtmlkjvuxgwwiglriztnriglridiixnpbwbnilraolmpbwbjvushrbxizkolmqipshrbx
